@@ -5,4 +5,3 @@ for i in range(len(n)):
     if i%2==0:
         s+=n[i]
 print(s)
-        
